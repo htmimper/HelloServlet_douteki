@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse; 
 @WebServlet("/HelloServlet") 
 public class HelloServlet
-extends HttpServlet { 
+ extends HttpServlet { 
 public HelloServlet() { 
 super(); 
 } 
